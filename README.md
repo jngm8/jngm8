@@ -12,7 +12,7 @@
   
 - 🌱 Learning Docker, Machine Learning and Cloud computing
   
-- 🔝 I’m looking for challenges that can help me grow as well as people around me
+- 🔝 I’m looking for challenges that can help me grow as a person and in my career
   
 - 📫 How to reach me: jn.gomezm1@uniandes.edu.co or  <a href="https://www.linkedin.com/in/jaironicolasgomez/" target="blank">Linkedin</a>
 
