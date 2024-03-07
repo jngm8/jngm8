@@ -7,15 +7,16 @@
 
 <br>
 
-<!--
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Full-Stack project in React and NestJS for my thesis!
+  
+- 🌱 Learning Docker, Machine Learning and Cloud computing
+  
+- 👯 I’m looking to collaborate on projects that can challenge me and help grow the business and team
+  
+- 📫 How to reach me: jn.gomezm1@uniandes.edu.co
+  
+- ⚡ Fun fact: I loved playing soccer and as 99% of them, they finish playing tennis as occured to me 🎾
