@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Jairo Nicolás </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=CCCCCC&random=false&width=1000&lines=Jairo+Nicol%C3%A1s+G%C3%B3mez+%F0%9F%92%BB;Systems+and+Computing+Engineering+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Passionate+about+technology+and+sports+;Love+to+learn+new+stuffs+and+personal+growth+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=3569CD&background=5EE6B700&random=false&width=800&lines=Jairo+Nicol%C3%A1s+G%C3%B3mez+%F0%9F%92%BB;Systems+and+Computing+Engineering+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Passionate+about+technology+and+sports+;Love+to+learn+new+stuffs+and+personal+growth+" alt="Typing SVG" /></a>
 </p>
 
 
