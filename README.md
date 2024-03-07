@@ -22,3 +22,29 @@
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 
 - ⚡ Hobbies: Playing tennis, reading books and walking in nature
+
+<br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,react,nestjs,git,dart,flutter,css,docker,figma,firebase,github,html,postgres,postman,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngm8&show_icons=true)
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jngm8&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
+  
+  </td>
+
+
+
+  -->
