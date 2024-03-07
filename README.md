@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Jairo Nicolás </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/jngm8/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jairo+Nicolás+Gómez+💻..&hearts;++;Systems and Computing Engineering Student+👨🏻‍🎓,;Passionate+about+technology+and+sports,;Entrepeneurship+and+growth+are+my+passions,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="[https://github.com/jngm8/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jairo+Nicolás+Gómez+💻..&hearts;++;Systems and Computing Engineering Student+👨🏻‍🎓,;Passionate+about+technology+and+sports,;Entrepeneurship+and+growth+are+my+passions,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
