@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi, Im Jairo Nicolás 👋
+
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jairo+Nicolás+Gómez+💻,;Systems and Computing Engineering Student+👨🏻‍🎓,;Passionate+about +technology+and+sports,;Entrepeneurship+and+growth+are+my+passions,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 <!--
-**jngm8/jngm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
