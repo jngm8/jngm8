@@ -8,15 +8,17 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd5cm1qZjIzcjlmNWhwOGJpc3JoMDJxdXR5cnpzdHVzM2xrcnBoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 - 🔭 I’m currently working on a Full-Stack project in React and NestJS for my thesis!
   
 - 🌱 Learning Docker, Machine Learning and Cloud computing
   
-- 👯 I’m looking to collaborate on projects that can challenge me and help grow the business and team
+- 🔝 I’m looking for challenges that can help me grow and people around me
   
-- 📫 How to reach me: jn.gomezm1@uniandes.edu.co
-  
-- ⚡ Fun fact: I loved playing soccer and as 99% of them, they finish playing tennis as occured to me 🎾
+- 📫 How to reach me: jn.gomezm1@uniandes.edu.co or  <a href="https://www.linkedin.com/in/jaironicolasgomez/" target="blank">Linkedin</a>
+
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+
+- ⚡ Hobbies: Playing tennis, reading books and walking in nature
