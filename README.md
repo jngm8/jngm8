@@ -25,6 +25,10 @@
 
 <br>
 
+
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jngm8&theme=dark&hide_border=false" /> 
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -36,6 +40,9 @@
     <img src="https://skillicons.dev/icons?i=py,js,react,nestjs,git,dart,flutter,css,docker,figma,firebase,github,html,postgres,postman,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
+
+
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngm8&show_icons=true)
 
