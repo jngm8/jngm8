@@ -16,7 +16,7 @@
   
 - 📫 How to reach me: jn.gomezm1@uniandes.edu.co or  <a href="https://www.linkedin.com/in/jaironicolasgomez/" target="blank">Linkedin</a>
 
-- 📄 Know about my experiences <a href="https://github.com/jngm8/jngm8/blob/main/Resume%20Jairo%20Gomez%20EN.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/jngm8/jngm8/blob/main/Resume%20Jairo%20Nicol%C3%A1s%20G%C3%B3mez.pdf" target="blank">Resume</a>
 
 - ⚡ Hobbies: Playing tennis, reading books and walking in nature
 
