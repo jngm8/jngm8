@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jngm8&theme=dark&hide_border=false" /> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jngm8&theme=catppuccin-frappe&border_radius=10" alt="GitHub Streak" /></a>
 
   
 </div>
@@ -57,4 +57,4 @@
 
   -->
 
-  Last Edited on: 08/3/2024
+  Last Edited on: 18/3/2024
